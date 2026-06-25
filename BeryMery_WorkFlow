@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>EZEXGAME Team Workflow</title>
+
+<style>
+body{
+    font-family: Tahoma, sans-serif;
+    background:#121212;
+    color:white;
+    margin:0;
+    padding:40px;
+}
+
+.container{
+    max-width:1200px;
+    margin:auto;
+}
+
+h1{
+    text-align:center;
+    margin-bottom:40px;
+}
+
+.step{
+    background:#1e1e1e;
+    padding:20px;
+    border-radius:12px;
+    margin-bottom:30px;
+}
+
+.step h2{
+    color:#4CAF50;
+}
+
+.video{
+    position:relative;
+    padding-bottom:56.25%;
+    height:0;
+    overflow:hidden;
+    border-radius:10px;
+}
+
+.video iframe{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>Workflow تیم EZEXGAME</h1>
+
+<div class="step">
+    <h2>مرحله 1 - مدل سازی</h2>
+    <p>در این مرحله مدل اولیه ساخته می‌شود.</p>
+
+    <div class="video">
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID"
+        frameborder="0"
+        allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="step">
+    <h2>مرحله 2 - UV</h2>
+    <p>آماده سازی UV ها.</p>
+
+    <div class="video">
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID"
+        frameborder="0"
+        allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="step">
+    <h2>مرحله 3 - Texturing</h2>
+    <p>ساخت متریال و تکسچر.</p>
+
+    <div class="video">
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID"
+        frameborder="0"
+        allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="step">
+    <h2>مرحله 4 - Unreal Engine</h2>
+    <p>وارد کردن فایل‌ها به آنریل.</p>
+
+    <div class="video">
+        <iframe src="https://www.youtube.com/embed/VIDEO_ID"
+        frameborder="0"
+        allowfullscreen></iframe>
+    </div>
+</div>
+
+</div>
+
+</body>
+</html>
